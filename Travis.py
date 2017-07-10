@@ -9,7 +9,7 @@ while True:
         remove = input("Would you like to be removed from the system(y/n)?:").strip().lower()
 
         if remove == "y":
-            known_users.remove(ame)
+            known_users.remove(name)
         elif remove == "n":
             print("No problem, I didnt want you to leave anyway!")
 

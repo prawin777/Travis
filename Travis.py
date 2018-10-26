@@ -1,4 +1,4 @@
-known_users = ["Alice", "Bob", "Claire", "Dan", "Emma", "Fred", "Georgie", "Harry"]
+known_users = ["Alice", "Bob", "Claire", "Dan", "Emma", "Fred", "Georgie", "Harry", "Ian"]
 
 while True:
     print("Hi! My name is Travis")
